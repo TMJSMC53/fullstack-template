@@ -1,6 +1,8 @@
 //1. Initialize npm and install dependencies
 // express, dotenv, cors, mongodb, ejs, nodemon (--save-dev)
 
+// Put this in the script in the package.json file "dev": "nodemon server.js"
+
 //2. Require dependencies in server.js
 
 //3. Declare variables
@@ -8,3 +10,9 @@
 //4. Connect to MongoDB - add connection string to .env file
 
 //5. Create Port 
+
+// -------- TEST Mongo and Port Connection -------------
+
+//6. Set middleware
+
+//7. Create gitignore file
